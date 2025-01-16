@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using StructuralDesignPatterns.Decorator.DataSource;
+
+// test decorator pattern
+Test.Run();
